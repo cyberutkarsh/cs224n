@@ -102,6 +102,7 @@ ENV/
 
 #datasets
 datasets/
+data/
 
 #saved params
 saved*.npy
